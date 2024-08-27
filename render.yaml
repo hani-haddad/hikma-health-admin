@@ -11,7 +11,7 @@ services:
     envVars:
       - key: NEXT_PUBLIC_HIKMA_API
         # Replace 'YOUR_API_KEY_HERE' with the actual API key
-        value: YOUR_API_KEY_HERE
+        value: https://hikma-health-backend-jo35.onrender.com
 
 
 # Define any additional services or database configurations if needed
